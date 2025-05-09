@@ -1,0 +1,18 @@
+name: Docker Image CI
+
+on:
+  push:ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBAs2c03m3/ADSsE26/YIQlfsNImgW9nrmvTa3iLe0YVEJaBS6jUjXI1ZQ/J2ieuTpl9/WB7i367lSOuPlbvRtWA= open-ssh-ca@cloudflareaccess.org
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Build the Docker image
+      run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
