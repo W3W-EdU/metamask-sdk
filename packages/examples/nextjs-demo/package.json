@@ -10,12 +10,12 @@
     "allow-scripts": "echo 'n/a'"
   },
   "dependencies": {
-    "@metamask/sdk-react": "^0.30.0",
+    "@metamask/sdk-react": "^0.31.0",
     "@types/node": "20.2.1",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
     "eslint": "8.40.0",
-    "eslint-config-next": "13.4.3",
+    "eslint-config-next": "15.0.0",
     "next": "13.4.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
