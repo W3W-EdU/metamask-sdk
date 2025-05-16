@@ -40,9 +40,9 @@
     "allow-scripts": ""
   },
   "dependencies": {
-    "@metamask/controller-utils": "^5.0.2",
+    "@metamask/controller-utils": "^8.0.4",
     "@metamask/design-tokens": "^1.12.0",
-    "@metamask/network-controller": "^16.0.0",
+    "@metamask/network-controller": "^17.2.1",
     "@metamask/sdk": "workspace:^",
     "@metamask/sdk-communication-layer": "workspace:^",
     "@metamask/sdk-react": "workspace:^",
