@@ -4,10 +4,10 @@
   "private": true,
   "homepage": "./",
   "dependencies": {
-    "@metamask/sdk-react": "^0.30.0",
+    "@metamask/sdk-react": "^0.31.0",
     "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/user-event": "^14.0.0",
     "buffer": "^6.0.3",
     "buffer-browserify": "^0.2.5",
     "qr-code-styling": "^1.6.0-rc.1",
