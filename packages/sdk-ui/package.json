@@ -48,7 +48,7 @@
     "@metamask/sdk-react": "workspace:^",
     "@react-navigation/native": "^6.1.9",
     "@testing-library/react-native": "^12.4.0",
-    "babel-preset-expo": "^9.5.2",
+    "babel-preset-expo": "^10.0.0",
     "buffer": "^6.0.3",
     "buffer-browserify": "^0.2.5",
     "color": "^4.2.3",
