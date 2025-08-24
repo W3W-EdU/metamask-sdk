@@ -46,7 +46,7 @@
   "dependencies": {
     "@metamask/onboarding": "^1.0.1",
     "@metamask/providers": "16.1.0",
-    "@metamask/sdk-communication-layer": "workspace:*",
+    "@metamask/sdk-communication-layer": "0.1.0",
     "@metamask/sdk-install-modal-web": "workspace:*",
     "bowser": "^2.9.0",
     "cross-fetch": "^4.0.0",
