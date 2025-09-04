@@ -52,7 +52,7 @@
     "react-native-reanimated": "^3.4.2",
     "react-native-safe-area-context": "^4.7.2",
     "react-native-vector-icons": "^10.0.0",
-    "react-native-web": "^0.19.12",
+    "react-native-web": "^0.20.0",
     "siwe": "^2.3.2",
     "typescript": "5.0.2",
     "utf-8-validate": "^5.0.2",
