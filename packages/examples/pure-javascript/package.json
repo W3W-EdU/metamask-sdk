@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "@metamask/sdk": "^0.30.0",
-    "serve": "13.0.2"
+    "serve": "14.2.5"
   }
 }
