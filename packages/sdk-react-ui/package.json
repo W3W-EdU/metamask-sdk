@@ -45,9 +45,9 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.6.6",
-    "@metamask/sdk": "workspace:^",
-    "@metamask/sdk-react": "workspace:*",
-    "ethers": "^5.6.9",
+    "@metamask/sdk": "0.16.0",
+    "@metamask/sdk-react": "0.16.0",
+    "ethers": "^6.0.0",
     "mersenne-twister": "^1.1.0",
     "react-copy-to-clipboard": "^5.1.0",
     "react-jazzicon": "^1.0.4",
