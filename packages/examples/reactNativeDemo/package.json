@@ -13,14 +13,14 @@
     "allow-scripts": ""
   },
   "dependencies": {
-    "@metamask/sdk": "^0.30.0",
+    "@metamask/sdk": "^0.30.1",
     "@metamask/sdk-react": "^0.30.0",
     "@react-native-async-storage/async-storage": "^2.0.0",
     "@react-navigation/bottom-tabs": "^6.5.11",
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/native-stack": "^6.9.17",
     "eciesjs": "^0.4.4",
-    "ethers": "5.7.2",
+    "ethers": "6.0.0",
     "intl-pluralrules": "^2.0.1",
     "node-libs-react-native": "^1.2.1",
     "react": "^18.2.0",
